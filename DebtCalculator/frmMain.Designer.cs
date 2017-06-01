@@ -2854,6 +2854,7 @@ namespace DebtCalculator
             // 
             // linkLabel1
             // 
+            this.linkLabel1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.linkLabel1.AutoSize = true;
             this.linkLabel1.BackColor = System.Drawing.SystemColors.Control;
             this.linkLabel1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
@@ -2868,6 +2869,7 @@ namespace DebtCalculator
             // 
             // label83
             // 
+            this.label83.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label83.AutoSize = true;
             this.label83.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label83.Font = new System.Drawing.Font("Franklin Gothic Book", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
